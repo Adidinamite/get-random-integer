@@ -1,0 +1,23 @@
+{
+  "name": "get-the-best-random-integer",
+  "version": "1.0.0",
+  "description": "Generates a random integer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adidinamite/get-random-integer.git"
+  },
+  "keywords": [
+    "random",
+    "integer"
+  ],
+  "author": "Adidinamite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adidinamite/get-random-integer/issues"
+  },
+  "homepage": "https://github.com/Adidinamite/get-random-integer#readme"
+}

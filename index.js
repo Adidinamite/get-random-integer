@@ -1,0 +1,1 @@
+export const getRandomInteger = () => Math.floor(Math.random() * 100);
